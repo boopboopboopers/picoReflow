@@ -18,11 +18,11 @@ Don't forget to share and drop a link, when you do :)
 ## Hardware
 
   * Raspberry Pi (Rev 2B, Zero W)
-  * 
-  *     (Confirmed to work with RPI3B+ with these instructions using Raspbian Stretch 2018-04-18)
-  *     (In newer releases of Rasbian Python libraries have been updated, along with a few other dependencies. 
-  *      I found this OS version to work with the instructions provided without any of the python renaming nonsense and without MAX31855 issues.)
-  *      
+ 
+  (Confirmed to work with RPI3B+ with these instructions using Raspbian Stretch 2018-04-18)
+  (In newer releases of Rasbian Python libraries have been updated, along with a few other dependencies. 
+  I found this OS version to work with the instructions provided without any of the python renaming nonsense and without MAX31855 issues.)
+        
   * MAX 31855/6675 Cold-Junction K-Type Thermocouple
   * GPIO driven Solid-State-Relays/MOSFETs
 
